@@ -1,7 +1,7 @@
 const mongoose = require('mongoose'); 
 
 // Conexión a MongoDB con las opciones correctamente configuradas
-mongoose.connect('mongodb+srv://Grupo-12:grupo12@cursadanodejs.ls9ii.mongodb.net/', {
+mongoose.connect('mongodb+srv://Grupo-12:grupo12@cursadanodejs.ls9ii.mongodb.net/Node-js', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
